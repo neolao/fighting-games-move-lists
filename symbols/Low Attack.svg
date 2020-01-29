@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Low Attack</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Low-Attack">
+            <circle id="Oval" fill="#000000" fill-rule="evenodd" cx="25" cy="25" r="25"></circle>
+            <polygon id="Star" fill="#F8FA0A" fill-rule="evenodd" points="25 34.4749814 18.1595971 43.7938524 18.9095994 32.2582568 7.67949192 35 15.6689649 26.6453133 5.30384494 21.5270364 16.7944254 20.2625093 12.1442478 9.67911114 21.7593655 16.0964299 25 5 28.2406345 16.0964299 37.8557522 9.67911114 33.2055746 20.2625093 44.6961551 21.5270364 34.3310351 26.6453133 42.3205081 35 31.0904006 32.2582568 31.8404029 43.7938524"></polygon>
+            <text id="L" stroke="#000000" stroke-width="2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" fill="#FFFFFF">
+                <tspan x="28.21" y="47">L</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
